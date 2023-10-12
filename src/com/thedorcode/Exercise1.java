@@ -3,7 +3,7 @@ package com.thedorcode;
 public class Exercise1 {
     public static void main(String[] args) {
         int maxDistance = 10;
-        int distanceToHome = 1;
+        int distanceToHome = 11;
 
         if(distanceToHome > maxDistance){
             System.out.println("Distance from the store to your home is");
